@@ -80,6 +80,15 @@ This repository represents the frontend website of GawwaC.
 
 It focuses on company presentation, informational content, and website design.
 
+## Author
+
+**Mosa Abudosh**
+
+Software Engineer | Software Developer | Full Stack .NET & Angular
+
+- GitHub: [mosaabudosh](https://github.com/mosaabudosh)
+- LinkedIn: [Mosa Abudosh](https://www.linkedin.com/in/mosa-a-abudosh/)
+
 **Note:** This project does not include a backend, database, or a complete transportation booking and management system.
 
 ## Purpose
